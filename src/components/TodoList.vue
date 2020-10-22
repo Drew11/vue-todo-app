@@ -127,7 +127,7 @@
         margin-left: 12px;
         width: 100%;
         padding: 10px;
-        border: 1px solid white;
+        border: 1px solid #ccc;
         font-family: 'Avenir', Helvetica, Arial, sans-serif ;
         &:focus {
             outline: none;
